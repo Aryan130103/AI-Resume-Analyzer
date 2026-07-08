@@ -1,5 +1,8 @@
 # AI Resume Screener - Nutrabay
 
+## Video Demonstration
+https://drive.google.com/drive/folders/1rtk74ibPkiAjIh6oIGqpJBm5NFufAeIe?usp=drive_link
+
 ## Quick Start
 
 1. Download `ai-resume-screener.html`
