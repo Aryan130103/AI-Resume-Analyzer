@@ -1,4 +1,5 @@
 # AI Resume Screener
+AI Resume Screener is a browser-based recruiting tool that uses AI to automatically evaluate and rank job candidates against a job description, built as a self-contained HTML file that runs directly in any browser. A recruiter pastes in a JD, uploads or pastes resumes (PDF supported via PDF.js), and the tool runs a dual-call pipeline: one call scores each candidate individually against the JD via Groq's LLaMA 3.3 70B, returning a 0–100 fit score with strengths, gaps, and a summary, while a second call synthesizes cross-candidate insights and hiring recommendations for the full batch, with results exportable as a downloadable report.
 
 ## Video Demonstration
 https://drive.google.com/file/d/1gb0ALKzp0bKngp3EHBHZd0jN1I0ojlJ8/view?usp=sharing
