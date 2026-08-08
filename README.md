@@ -9,7 +9,7 @@ https://drive.google.com/file/d/1gb0ALKzp0bKngp3EHBHZd0jN1I0ojlJ8/view?usp=shari
 1. Download `ai-resume-screener.html`
 2. Generate Groq API Key here: https://console.groq.com/keys
 3. Paste the API key in code line 208:
-   const GROQ_KEY = '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';
+   const GROQ_KEY = 'YOUR API KEY';
 4. Open it in any browser (Chrome, Firefox, Edge)
 
 ---
